@@ -1,3 +1,5 @@
 # Kubeflow Trial
 
-This repo showcases how to launch a kubernetes cluster locally and install kubeflow for testing the dashboard locally.
+This repo contains notebooks that showcase below:
+- Launching a kubernetes cluster locally and install kubeflow for testing the dashboard locally.
+- Creating pipeline YAML specification via SDK
